@@ -14,3 +14,4 @@ https://github.com/MariiaZimokha/video-player/blob/master/routes.js#L24
 - The server can also ignore the Range header and return the whole document with a 200 status code.
 
 
+![how calls look like](/assets/video-endpoint-calls.png?raw=true)
